@@ -3,6 +3,18 @@
 .env.local
 .env.*.local
 
+# Personal/private documents
+docs/**/*passport*
+docs/**/*Passport*
+docs/**/*CV*
+docs/**/*cv*
+docs/**/*resume*
+docs/**/*Resume*
+docs/**/*tp*.jpeg
+docs/**/*tp*.jpg
+docs/**/*tp*.png
+docs/**/*.zip
+
 # Python
 .venv/
 venv/
